@@ -1,5 +1,5 @@
 
-#Код занятий 1 группы Python 18+
+# Код занятий 1 группы Python 18+
 ## <a href=""> Первое занятие</a>
 ## <a href="https://github.com/isakura313/python_18_2_2"> Второе занятие</a>
 ## <a href="https://github.com/isakura313/third_22"> Третье занятие</a>
